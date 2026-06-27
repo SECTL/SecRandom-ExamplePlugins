@@ -1,0 +1,12 @@
+{
+  "id": "com.example.plugin",
+  "name": "SecRandom Example Plugin",
+  "version": "1.0.0",
+  "author": "SECTL",
+  "description": "Example plugin manifest for SecRandom.",
+  "apiVersion": "1",
+  "minimumHostVersion": "0.0.0",
+  "entryAssembly": "SecRandom.ExamplePlugin.dll",
+  "entryType": "SecRandom.ExamplePlugin.Plugin",
+  "permissions": []
+}
