@@ -1,6 +1,6 @@
-# PluginInfo
+# SecRandom Example Plugin
 
-Plugins receive their manifest through `IPluginBuildContext.Manifest` and `IPluginRuntimeContext.Manifest`.
+Plugins receive metadata through `IPluginBuildContext.PluginInfo` and `IPluginRuntimeContext.PluginInfo`.
 
 Runtime data is stored under:
 
